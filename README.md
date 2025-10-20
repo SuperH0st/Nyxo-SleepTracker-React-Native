@@ -1,3 +1,5 @@
+![Nyxo App](https://github.com/hello-nyxo/nyxo-website/blob/master/static/images/cover.png)
+
 <p align="center">
 <h1 align=center>Nyxo App – Better Sleep 💤💤💤</h1>
 </p>
