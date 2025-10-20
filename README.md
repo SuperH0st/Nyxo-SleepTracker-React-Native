@@ -1,13 +1,8 @@
-![Nyxo App](https://github.com/hello-nyxo/nyxo-website/blob/master/static/images/cover.png)
-
 <p align="center">
 <h1 align=center>Nyxo App – Better Sleep 💤💤💤</h1>
 </p>
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![commit activity](https://img.shields.io/github/commit-activity/w/hello-nyxo/nyxo-app)
-![release](https://img.shields.io/github/v/release/hello-nyxo/nyxo-app)
-![license](https://img.shields.io/github/license/hello-nyxo/nyxo-app)
 
 ---
 
